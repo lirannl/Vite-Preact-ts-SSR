@@ -8,7 +8,7 @@ function Page() {
       <h1>Welcome</h1>
       This page is:
       <ul>
-        <li>Rendered to HTML by liran.</li>
+        <li>Rendered to HTML.</li>
         <li>Written in typescript.</li>
         <li>
           Interactive. <Counter />
